@@ -175,7 +175,6 @@ There are different wrapper methods such as Backward Elimination, Forward Select
 ## FINAL SET OF FEATURE:
 ![OUTPUT](./9.jpg)
 ## EMBEDDED METHOD:
-![OUTPUT](./10.jpg)
 
 ![OUTPUT](./11.jpg)
 # RESULT:
